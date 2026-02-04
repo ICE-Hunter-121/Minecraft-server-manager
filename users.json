@@ -1,0 +1,18 @@
+{
+  "yoko": {
+    "password": "$2a$10$LKnMp7UZfrueY0C8eXCE5eV0ZI/I0mpTG6YeAUZ35YF.O3SvwpWUq",
+    "firstLogin": false,
+    "role": "admin",
+    "displayName": "Yoko",
+    "lastLogin": "2026-01-20T15:40:22.614Z",
+    "createdAt": "2026-01-19T18:52:48.726Z"
+  },
+  "ice": {
+    "password": "$2a$10$wxB0BNGf.wAO7A1qd/LS2OzhS/RM0sDue5eXRA3CJMHq5GUN5TzY.",
+    "firstLogin": false,
+    "role": "admin",
+    "displayName": "Ice",
+    "lastLogin": "2026-01-19T18:53:16.646Z",
+    "createdAt": "2026-01-19T18:52:48.784Z"
+  }
+}
